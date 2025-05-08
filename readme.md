@@ -5,3 +5,4 @@
 ## Temario
 - **Nivelación**
 - **Plan de marketing**
+- **El rol del CM: Social Media & Inbound Marketing**
