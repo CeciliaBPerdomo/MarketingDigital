@@ -6,3 +6,4 @@
 - **Nivelación**
 - **Plan de marketing**
 - **El rol del CM: Social Media & Inbound Marketing**
+- **Estrategia de contenido I: Facebook & Instagram**
