@@ -7,4 +7,5 @@
 - **Plan de marketing**
 - **El rol del CM: Social Media & Inbound Marketing**
 - **Estrategia de contenido I: Facebook & Instagram**
-- **Estrategia de contenido I: Facebook & Instagram & Tik Tok**
+- **Estrategia de contenido II: Facebook & Instagram & Tik Tok**
+- **Estrategia de contenido III: X & LinkedIn**
