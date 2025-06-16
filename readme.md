@@ -10,3 +10,4 @@
 - **Estrategia de contenido II: Facebook & Instagram & Tik Tok**
 - **Estrategia de contenido III: X & LinkedIn**
 - **Creación y gestión de anuncios en Redes Sociales**
+- **Video Marketing & Google Ads**
